@@ -13,3 +13,19 @@ Anton Elagin
 * I want to develop in a front-end environment
 * Ready to learn, step by step to become better than before
 * Ready to perform a tasks in time
+
+### Skills
+* `HTML` `CSS`
+
+* `JavaScript`
+
+*  CSS preprocessors: `SASS`
+
+* There is the small experience with `Node.js`
+
+* `Git`
+
+* `Photoshop` basics
+
+* The algorithms: binary search, breadth-first search, bubble sort
+
