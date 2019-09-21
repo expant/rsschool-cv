@@ -1,9 +1,9 @@
 # Resume
 
-### First, Last Name:
+### First, Last Name
 Anton Elagin
 
-### Contact Info:
+### Contact Info
 * email: anton532202@gmail.com
 * phone: +7(952)-87-27-00
 * telegram: ant0nelagin
@@ -43,3 +43,10 @@ Anton Elagin
 * [Codecademy - Learn CSS](https://www.codecademy.com/learn/learn-css)
 * Subject of web programming in the 3rd year of college
 * Javascript - the definitive guide 5th edition by David Flanagan 
+
+### English
+##### My level English: A2 (pre-intermediate)
+---
+#####Teaching methods
+* New English tutorial - Petrov, Orlov
+* Watching various films, series, videos in English
