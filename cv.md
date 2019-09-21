@@ -29,3 +29,5 @@ Anton Elagin
 
 * The algorithms: binary search, breadth-first search, bubble sort
 
+### Code examples
+* [User model](https://github.com/expant/Freelance-coursework/blob/master/models/User.js)
