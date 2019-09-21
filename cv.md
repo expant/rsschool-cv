@@ -30,7 +30,26 @@ Anton Elagin
 * The algorithms: binary search, breadth-first search, bubble sort
 
 ### Code examples
-* [User model](https://github.com/expant/Freelance-coursework/blob/master/models/User.js)
+```javascript
+const linkedList = {
+	data: 1,
+	next: {
+		data: 2,
+		next: {
+			data: 3,
+			next: {
+				data: 4
+			}
+		}
+	}
+};
+
+const getValue = (index, list) => index === 0 
+	? list.data
+	: getValue(index - 1, list.next);
+  
+console.log(getValue(3, linkedList));
+```
 
 ### Experience
 * [Calculator-web](https://github.com/expant/Calculator-web)
