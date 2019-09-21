@@ -35,3 +35,11 @@ Anton Elagin
 ### Experience
 * [Calculator-web](https://github.com/expant/Calculator-web)
 * [Freelance-coursework](https://github.com/expant/Freelance-coursework)
+
+### Education
+* New Big CSS Book - McFarland David
+* [learn.javascript](http://learn.javascript.ru/)
+* [Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
+* [Codecademy - Learn CSS](https://www.codecademy.com/learn/learn-css)
+* Subject of web programming in the 3rd year of college
+* Javascript - the definitive guide 5th edition by David Flanagan 
