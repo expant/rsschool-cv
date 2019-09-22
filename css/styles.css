@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 30px auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 40px;
+}
+
+.container a {
+  text-decoration: none;
+}
+
+.container ul li {
+  margin-bottom: 10px;
+}
+
+.container h3 {
+  margin: 20px 0;
+}
+
+.container ul,
+.container img {
+  margin-left: 30px;
+}
+
+header {
+  padding-bottom: 20px;
+  border-bottom: 2px solid #eeeeee;
+}
+
+.info-avatar {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.info-avatar .avatar {
+  padding: 20px;
+}
+
+.avatar img {
+  border-radius: 5px;
+}
+
+.skills ul li {
+  margin-bottom: 20px;
+}
+
+.skills .technologies {
+  padding: 5px;
+  background-color: #eeeeee;
+  border-radius: 5px;
+}
+
+.english .teaching-methods {
+  margin-top: 10px;
+}
+
+.teaching-methods h4 {
+  margin-bottom: 10px;
+}
