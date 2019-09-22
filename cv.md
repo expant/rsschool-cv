@@ -31,6 +31,7 @@ Anton Elagin
 
 ### Code examples
 ```javascript
+
 const linkedList = {
   data: 1,
   next: {
