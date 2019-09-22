@@ -32,21 +32,21 @@ Anton Elagin
 ### Code examples
 ```javascript
 const linkedList = {
-	data: 1,
-	next: {
-		data: 2,
-		next: {
-			data: 3,
-			next: {
-				data: 4
-			}
-		}
-	}
+  data: 1,
+  next: {
+    data: 2,
+    next: {
+      data: 3,
+      next: {
+        data: 4
+      }
+    }
+  }
 };
 
 const getValue = (index, list) => index === 0 
-	? list.data
-	: getValue(index - 1, list.next);
+  ? list.data
+  : getValue(index - 1, list.next);
   
 console.log(getValue(3, linkedList));
 ```
